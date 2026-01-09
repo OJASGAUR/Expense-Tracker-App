@@ -21,6 +21,11 @@
       },
       "package": "com.expensetracker.mobile"
     },
-    "web": {}
+    "web": {},
+    "extra": {
+      "eas": {
+        "projectId": "4467a9f6-cbec-4c72-a7e4-66e51a02fe96"
+      }
+    }
   }
 }
